@@ -7,11 +7,9 @@
 
 ## Sobre mim:
 
-Atualmente(02/24) estou aprendendo python com foco no desenvolvimento de apps com PySide6 e PyQt6,também tenho uma pequena bagagem de SqlServer e vou em breve começar java. 
+Atualmente(02/24) estou aprendendo python com foco no desenvolvimento de apps com PySide6 e PyQt6,também tenho uma pequena bagagem de SqlServer e vou em breve começar java e C. 
 
 Acabei de entrar na faculdade(FATEC - ADS) então frequentemente vou estar atulizando meu git e principalmente commitando projetos novos😁
-
-Prentendo estudar outras linguas e bibliotecas, no front-end o html, css, javascript, typescript e ruby, compreendendo também a sua possível conexão com banco de dados SqlServer e MySQL com Node.js.💻
 
 ## Contato:
 
