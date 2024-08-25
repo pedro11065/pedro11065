@@ -1,15 +1,37 @@
-# Olá Dev ! 
+ # Olá Dev ! 
 ## Bem vindo ao meu perfil GitHub 👋
 
-# Estudando:
+# Tecnologias:
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original-wordmark.svg" width="40" height="40" />  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" width="40" height="40" />  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" width="40" height="40" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original-wordmark.svg" width="40" height="40" />  <img 
+  
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/flask/flask-original-wordmark.svg" width="40" height="40"/>
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" width="40" height="40" /> 
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="40" height="40" />     
+
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" width="40" height="40" />
+          
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-original-wordmark.svg"  width="40" height="40" />
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" width="40" height="40" />
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" width="40" height="40" />
+            
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/visualstudio/visualstudio-original.svg" width="40" height="40" />
+          
+          
+          
+                                                                                                                                                          
 
 ## Sobre mim:
 
-Atualmente(02/24) estou aprendendo python com foco no desenvolvimento de apps com PySide6 e PyQt6,também tenho uma pequena bagagem de SqlServer e vou em breve começar java e C. 
+Atualmente, tenho domínio em Python com foco no desenvolvimento back-end de aplicações e sistemas web. Possuo também experiência com programação em C/C++ e com o uso e hospedagem de bancos de dados relacionais, como PostgreSQL, na AWS.
 
-Acabei de entrar na faculdade(FATEC - ADS) então frequentemente vou estar atulizando meu git e principalmente commitando projetos novos😁
+Atualmente, estou cursando o 2º semestre de Análise e Desenvolvimento de Sistemas na FATEC Baixada Santista (FATEC-BS). Sou autodidata e estou sempre buscando aprender mais por conta própria, o que se reflete na constante atualização do meu GitHub, onde frequentemente comito novos projetos.
 
 ## Contato:
 
