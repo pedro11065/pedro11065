@@ -9,11 +9,12 @@
           
                                                                                                                                                           
 
-## Sobre mim:
+## About me:
 
-Atualmente, tenho domínio em Python com foco no desenvolvimento back-end de aplicações e sistemas web. Possuo também experiência com programação em C/C++ e com o uso e hospedagem de bancos de dados relacionais, como PostgreSQL, na AWS.
+I am currently proficient in Python with a focus on back-end development of web applications and systems. I also have experience with programming in C/C++, creating APIs with Flask and using and hosting relational databases, such as PostgreSQL, on AWS RDS.
 
-Atualmente, estou cursando o 2º semestre de Análise e Desenvolvimento de Sistemas na FATEC Baixada Santista (FATEC-BS). Sou autodidata e estou sempre buscando aprender mais por conta própria, o que se reflete na constante atualização do meu GitHub, onde frequentemente comito novos projetos.
+I'm currently studying Systems Analysis and Development at FATEC Baixada Santista (FATEC-BS). I'm self-taught and am always looking to learn more on my own, which is reflected in the constant updating of my GitHub, where I frequently commit new projects.
+
 
 ## Contato:
 
