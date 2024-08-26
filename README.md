@@ -1,7 +1,7 @@
- # Olá Dev ! 
-## Bem vindo ao meu perfil GitHub 👋
+ # Hello Dev ! 
+## Welcome to my GitHub 👋
 
-# Tecnologias:
+# Tecnologies:
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original-wordmark.svg" width="40" height="40" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/flask/flask-original-wordmark.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" width="40" height="40" />  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="40" height="40" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" width="40" height="40" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-original-wordmark.svg"  width="40" height="40" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" width="40" height="40" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" width="40" height="40" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/visualstudio/visualstudio-original.svg" width="40" height="40" />
           
@@ -16,7 +16,7 @@ I am currently proficient in Python with a focus on back-end development of web 
 I'm currently studying Systems Analysis and Development at FATEC Baixada Santista (FATEC-BS). I'm self-taught and am always looking to learn more on my own, which is reflected in the constant updating of my GitHub, where I frequently commit new projects.
 
 
-## Contato:
+## Contact:
 
 <div>
 <a href="https://www.instagram.com/pedro_quix/" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
