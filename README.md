@@ -11,10 +11,11 @@
 
 ## About me:
 
-I am currently proficient in Python with a focus on back-end development of web applications and systems. I also have experience with programming in C/C++, creating APIs with Flask and using and hosting relational databases, such as PostgreSQL, on AWS RDS.
+I have experience in development and automation, using Python and VBA languages. I'm currently improving my C# skills in the .NET ecosystem and I'm proficient in technologies such as CSS, HTML, JavaScript, Git and AWS services such as S3 and EC2.
 
-I'm currently studying Systems Analysis and Development at FATEC Baixada Santista (FATEC-BS). I'm self-taught and am always looking to learn more on my own, which is reflected in the constant updating of my GitHub, where I frequently commit new projects.
+My experience with SQL, PostgreSQL, SQL Server, Postman and AWS services comes from my own projects, where I constantly apply and improve my skills. 
 
+I'm proactive, communicative and collaborative, always looking for challenges that allow me to grow in the areas of programming, data analysis and automation.
 
 ## Contact:
 
