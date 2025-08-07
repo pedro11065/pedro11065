@@ -11,11 +11,8 @@
 
 ## About me:
 
-I have experience in development and automation, using Python and VBA languages. I'm currently improving my C# skills in the .NET ecosystem and I'm proficient in technologies such as CSS, HTML, JavaScript, Git and AWS services such as S3 and EC2.
-
-My experience with SQL, PostgreSQL, SQL Server, Postman and AWS services comes from my own projects, where I constantly apply and improve my skills. 
-
-I'm proactive, communicative and collaborative, always looking for challenges that allow me to grow in the areas of programming, data analysis and automation.
+I'm a passionate developer and automation enthusiast skilled in Python, VBA, JavaScript, HTML, and CSS, with hands-on experience using Git for version control and AWS services like RDS and EC2. I specialize in building efficient solutions and have honed my expertise in SQL, PostgreSQL, SQL Server, and Postman through some personal projects.
+Proactive, collaborative, and driven, I thrive on tackling challenges in programming, data analysis, and automation, always seeking opportunities to learn and grow.
 
 ## Contact:
 
